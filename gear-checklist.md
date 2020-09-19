@@ -9,6 +9,7 @@
   * multi-tool
   * headlamp
   * 2 motion lights + 8 AA batteries 
+  * phone
   * lithium battery + cords
   * chair
   * hand sanitizer
@@ -51,7 +52,7 @@
   * ax
   * saw
   * duct tape
-* screen tent
+* screen shelter
 * tents
   * per tent  
     * footprint
@@ -62,16 +63,6 @@
   * ibuprofen
   * antacids
   * antibiotic ointment
-* fun
-  * binoculars
-  * blue tooth speaker
-  * hammocks 
-  * frisbees
-  * fishing gear
-  * paddleboards / boats
-    * pump
-    * paddles
-    * life vests
 * dogs? 
   * dog food
   * leashes
