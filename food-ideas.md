@@ -18,6 +18,7 @@
 ## Other make ahead
 * rice krispie treats
 * brownies
+* popcorn
 
 ## Cooler, buy on way
 * hot dogs

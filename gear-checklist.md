@@ -22,7 +22,16 @@
   * bowl
   * water bottle
   * hand towels
+  * hand warmers
+  * raincoat
   * weather appropriate clothing and shoes
+    * warm weather
+      * swim suit
+      * light hoodie
+    * cold weather
+      * hat
+      * gloves
+      * coat
   
 ## Family camping
 * trash bags
@@ -58,6 +67,7 @@
   * blue tooth speaker
   * hammocks 
   * frisbees
+  * fishing gear
   * paddleboards / boats
     * pump
     * paddles
