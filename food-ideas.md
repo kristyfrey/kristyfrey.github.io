@@ -56,7 +56,7 @@
 * baked beans
 * boxed milk
 * marshmallows
-* smore cookies
+* s'more cookies
 * easy mac
 * microwave rice packets
 * beef jerky
