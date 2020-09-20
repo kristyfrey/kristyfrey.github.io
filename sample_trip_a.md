@@ -75,7 +75,6 @@
 * popcorn
 
 ## Cooler, buy on way
-* hot dogs
 * frozen burritos
 * cold cuts
 * deli cheese
@@ -84,7 +83,6 @@
 * squeeze sour cream (for chili / baked potatoes) 
 
 ## Produce / Non-Perishable, buy on way
-* hot dog buns
 * sandwich bread
 * baking potatoes
 * croissants
